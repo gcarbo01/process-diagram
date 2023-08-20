@@ -2,7 +2,7 @@
 <br>
 
 ##
-<img src="./images/process-diagram-main.jpg" align="center" width=100% height=100%>
+<img src="./images/process-diagram-main.jpg" align="center" width=75% height=75%>
 
 ##
 
