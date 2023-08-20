@@ -1,7 +1,7 @@
 # hexagonal-architecture
 hexagonal-architecture
 
-<img src="./images/process-diagram-main.jpj" align="center" width=50% height=50%>
+<img src="./images/process-diagram-main.jpg" align="center" width=50% height=50%>
 
 <br>
 <br>
