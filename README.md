@@ -12,11 +12,12 @@
 
 ## Intro
 ### Summary
-In large programs, the business process is the best artefact that can be used to describe the functionality, scope, actors and functional permutations. The Architects receive business processes as input as business requirements. Sometimes, the detailed granular requirements are impossible to produce and it requires Architects to work with Business analysts to understand these diagrams and transform them into business and system requirements.
-The business process can be created with different styles; depending on the occasion and skills, the business analyst may use a high-level approach to describe the business flows. On other occasions, they may use detailed notations to describe business logic.
-This article discusses the several options for using the notations available in the swimlane process diagrams and the activity diagrams and how these correlate to the design of solutions architecture, applications, and the consequent definition of the agile process artefacts such as epics and user stories.
-If the process diagrams are too high level, do not show all the actors involved, or do not show enough details for architects to use as input, it could require that the process diagrams be further refined and clarified before actually being useful for architecture input.
-Discussing the purpose and the motivation of defining which standards to use when constructing these process diagrams can increase the productivity of the business analyst and the architects involved in large projects.
+In large programs, the business process is the best artefact that can be used to describe the functionality, scope, actors and functional permutations. Consequently, the Architects receive these business processes as input for business requirements. <br> 
+Sometimes, Architects need help reading these processes because they are not detailed or granular requirements. Because they are not documented in a way that can transform them into functional and Systema requirements straightaway. So, the Architects need to collaborate with the Business analysts to understand these diagrams and transform them into business and system requirements. <br> 
+These business processes are created with different styles, and usually, there is no unity in notation and granularity if more than one business analyst works on them.  Sometimes business analysts have different skills and have different opinions on how much detail these diagrams should have.  Some business analysts may use a high-level approach to describe the business flows. On other occasions, they may use detailed notations to describe business logic. <br> 
+This article discusses the several options for using the notations available in the swimlane process diagrams and the activity diagrams and how these correlate to the design of solutions architecture, applications, and the consequent definition of the agile process artefacts such as epics and user stories.  <br> 
+If the process diagrams are too high level, do not show all the actors involved, or do not show enough details for architects to use as input, it could require that the process diagrams be further refined and clarified before actually being useful for architecture input.  <br> 
+Discussing the purpose and the motivation of defining which standards to use when constructing these process diagrams can increase the productivity of the business analyst and the architects involved in large projects.  <br> 
  <br>
  <br>
 <br>
