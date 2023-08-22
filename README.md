@@ -30,6 +30,7 @@ OMG® - Unified Modeling Language® - (OMG UML® ) Version 2.5.1  <br>
 - Section 15. Activities  (Page 373) <br>
 - Sub-section 15.5 Executable Nodes (Page 403) <br>
 - Sub-section 15.6 Activity Groups (Page 405) <br>
+
 https://www.omg.org/spec/UML/2.5.1/PDF<br>
 <br>
 Swimlane process - Wiki <br>
@@ -38,7 +39,7 @@ https://en.wikipedia.org/wiki/Swimlane <br>
 Activity Diagram - Wiki <br>
 https://en.wikipedia.org/wiki/Activity_diagram <br>
 <br>
-CIO org - Swim Lane Diagram <br>
+Swim Lane Diagram - CIO org <br>
 https://cio-wiki.org/wiki/Swim_Lane_Diagram <br>
 <br>
 <br>
