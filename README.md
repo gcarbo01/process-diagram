@@ -26,6 +26,7 @@ Discussing the purpose and the motivation of defining which standards to use whe
 #### References
 Object Management Group - UML definition <br>
 http://www.omg.org/spec/UML/  <br>
+<br>
 OMG® - Unified Modeling Language® - (OMG UML® ) Version 2.5.1  <br>
 https://www.omg.org/spec/UML/2.5.1/PDF <br>
 - Section 15. Activities  (Page 373) <br>
