@@ -40,6 +40,7 @@ http://www.omg.org/spec/UML/  <br>
 <br>
 OMG® - Unified Modeling Language® - (OMG UML®) Version 2.5.1  <br>
 https://www.omg.org/spec/UML/2.5.1/PDF <br>
+
 * Section 15. Activities  (Page 373) <br>
 * Sub-section 15.5 Executable Nodes (Page 403) <br>
 * Sub-section 15.6 Activity Groups (Page 405) <br>
@@ -86,7 +87,7 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 ## User Interface screens
 <br>
 
-#### Other References
+## Other References
 Swimlane process - Wiki <br>
 https://en.wikipedia.org/wiki/Swimlane <br>
 <br>
