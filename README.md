@@ -38,7 +38,7 @@ https://www.bpmn.org/ <br>
 <br>
 OMG® - Business Process Management® - (OMG BPM®) Version 2.0  <br>
 http://www.omg.org/spec/BPMN/2.0/ <br>
-https://www.omg.org/spec/BPMN/2.0/PDF  <br>
+https://www.omg.org/spec/BPMN/2.0/PDF <br>
 * Section  11.7.2 Swimlanes (Page 363) <br>
 * Section 10.2 Activities (Page 151) <br>
 <br>
