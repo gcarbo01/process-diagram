@@ -25,20 +25,22 @@ Discussing the purpose and the motivation of defining which standards to use whe
 <br>
 Most of the notations are taken from the modern definition of OMG BPM and OMG UML Activity Diagrams. <br>
 <br>
-Object Management Group - Business Process Management Definition <br>
+Object Management Group  (OMG®)<br>
 https://www.bpmn.org/ <br>
 <br>
-OMG® - Business Process Management® - (OMG BPM®) Version 2.0  <br>
+OMG® - Business Process Management Notation® (BPMN) - Definition <br>
 http://www.omg.org/spec/BPMN/2.0/ <br>
+<br>
+OMG® - BPMN Version 2.0  <br>
 https://www.omg.org/spec/BPMN/2.0/PDF <br>
 
 * Section  11.7.2 Swimlanes (Page 363) <br>
 * Section 10.2 Activities (Page 151) <br>
 <br>
-Object Management Group - UML definition <br>
+OMG® - Unified Modeling Language® (UML) Definition <br>
 http://www.omg.org/spec/UML/  <br>
 <br>
-OMG® - Unified Modeling Language® - (OMG UML®) Version 2.5.1  <br>
+OMG® - UML Version 2.5.1  <br>
 https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 * Section 15. Activities  (Page 373) <br>
