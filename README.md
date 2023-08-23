@@ -89,7 +89,7 @@ Generally, process diagrams include only one application where there is more tha
 ## Applications' components
 Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more that will have different activities each. 
 <br>
-For example for an Application called "Zinga Orders", there will be different components to represent them: 
+For example for an Application called "Zinga Orders", there will have different components to represent it: 
 
 * "Zinga App - Web". (the web frontend).
 * "Zinga App - Backend". (and the server side).
