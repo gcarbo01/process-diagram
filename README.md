@@ -18,20 +18,12 @@ These business processes are created with different styles, and usually, there i
 This article discusses the several options for using the notations available in the swimlane process diagrams and the activity diagrams and how these correlate to the design of solutions architecture, applications, and the consequent definition of the agile process artefacts such as epics and user stories.  <br> 
 If the process diagrams are too high level, do not show all the actors involved, or do not show enough details for architects to use as input, it could require that the process diagrams be further refined and clarified before actually being useful for architecture input.  <br> 
 Discussing the purpose and the motivation of defining which standards to use when constructing these process diagrams can increase the productivity of the business analyst and the architects involved in large projects.  <br> 
- <br>
- <br>
 <br>
 <br>
 <br>
 #### References
-Object Management Group - UML definition <br>
-http://www.omg.org/spec/UML/  <br>
 <br>
-OMG® - Unified Modeling Language® - (OMG UML®) Version 2.5.1  <br>
-https://www.omg.org/spec/UML/2.5.1/PDF <br>
-* Section 15. Activities  (Page 373) <br>
-* Sub-section 15.5 Executable Nodes (Page 403) <br>
-* Sub-section 15.6 Activity Groups (Page 405) <br>
+Most of the notations are taken from the modern definition of OMG BPM and OMG UML Activity Diagrams. <br>
 <br>
 Object Management Group - Business Process Management Definition <br>
 https://www.bpmn.org/ <br>
@@ -43,6 +35,58 @@ https://www.omg.org/spec/BPMN/2.0/PDF <br>
 * Section  11.7.2 Swimlanes (Page 363) <br>
 * Section 10.2 Activities (Page 151) <br>
 <br>
+Object Management Group - UML definition <br>
+http://www.omg.org/spec/UML/  <br>
+<br>
+OMG® - Unified Modeling Language® - (OMG UML®) Version 2.5.1  <br>
+https://www.omg.org/spec/UML/2.5.1/PDF <br>
+* Section 15. Activities  (Page 373) <br>
+* Sub-section 15.5 Executable Nodes (Page 403) <br>
+* Sub-section 15.6 Activity Groups (Page 405) <br>
+<br>
+<br>
+
+
+## Swimlines
+<br>
+
+## Multiple Applications
+<br>
+
+## Multiple Actors
+<br>
+
+## Top-to-bottom, Right-to-left 
+<br>
+
+## Process Start and End
+<br>
+
+## Activity granularity
+<br>
+
+## Process Continuation
+<br>
+
+## Sub-processes
+<br>
+
+## Colours
+<br>
+
+## Conditions
+<br>
+
+## Error Handling
+<br>
+
+## User Stories continuation
+<br>
+
+## User Interface screens
+<br>
+
+#### Other References
 Swimlane process - Wiki <br>
 https://en.wikipedia.org/wiki/Swimlane <br>
 <br>
