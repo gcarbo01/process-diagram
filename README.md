@@ -56,6 +56,32 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 ## Actors
 <br>
 
+
+## Activity 
+All Activities should be named with the name of the operation performed (a verb) performed, and the entity (noun). <br>
+The operation is a verb that in most cases can be one of the CRUD operations. For example: <br>
+
+* "Create Invoice"
+* "Read Invoice" (Search and Retrieve)
+* "Update Invoice" ('Upsert' also permitted)
+* "Delete Invoice"
+<br>
+
+
+## Top-to-bottom, Right-to-left 
+<br>
+
+## Process Start and End
+<br>
+
+
+## Conditions
+<br>
+
+
+## Sub-processes
+<br>
+
 ## Applications
 Generally, process diagrams include only one application where there is more than one actor, for example, a "User", or "Approver". However, there could be the case that the process describes a process that goes across applications or systems. The actors could be using more than one Application in the same process.
 <br>
@@ -73,30 +99,11 @@ In the case the application has a mobile version, this could be represented as <
 <br>
 <br>
 In addition, business processes don't need to represent any type of technology used or planned to be used. There are many cases business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
-The only notation needed is the entity and a verb, and in most cases, one of the CRUD operations performed is enough. For example:
-
-* "Invoice Created"
-* "Invoice Updated"
-* "Invoice Retrieved" (Read)
-* "Invoice Deleted"
+The only notation needed is the name of the operations (a verb) performed and the entity (noun). See the "Activity" section of this document.
 <br>
 
-## Top-to-bottom, Right-to-left 
-<br>
-
-## Process Start and End
-<br>
-
-## Activity 
-<br>
-
-## Sub-processes
-<br>
 
 ## Colours
-<br>
-
-## Conditions
 <br>
 
 ## Error Handling
