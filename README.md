@@ -90,12 +90,12 @@ Generally, process diagrams include only one application where there is more tha
 Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the necessity of breaking down the Application into more than one Entity. Trying to describe the different responsibilities of each Application component. However, the process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented.<br>
 For example for an Application called "Zinga Orders", there will be different components to represent them: 
 
-* "Zinga Orders - Web" (the web frontend),
-* "Zinga Orders - Backend". (and the server side)
+* "Zinga App - Web" (the web frontend),
+* "Zinga App - Backend". (and the server side)
 
 In the case the application has a mobile version, this could be represented as <br>
 
-* "Zinga Orders - Mobile" (for iOS and Android).
+* "Zinga App - Mobile" (for iOS and Android).
 <br>
 <br>
 In addition, business processes don't need to represent any type of technology used or planned to be used. There are many cases business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
