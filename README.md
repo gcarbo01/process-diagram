@@ -51,13 +51,23 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 ## Swimlines
 <br>
 
+## Actors
+<br>
+
 ## Applications
+Generally, process diagrams include only one application where there is more than one actor, for example, a "User", or "Approver". However, there could be the case that the process describes a process that goes across applications or systems. The actors could be using more than one Application in the same process.
 <br>
 
 ## Applications' components
-<br>
+Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the necessity of breaking down the Application into more than one Entity. Trying to describe the different responsibilities of each Application component. However, the process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented.<br>
+For example for an Application called "Zinga Orders", there will be different components to represent them: 
 
-## Actors
+* "Zinga Orders - Web" (the web frontend),
+* "Zinga Orders - Backend". (and the server side)
+
+In the case the application has a mobile version, this could be represented as <br>
+
+* "Zinga Orders - Mobile" (for iOS and Android).
 <br>
 
 ## Top-to-bottom, Right-to-left 
