@@ -51,10 +51,13 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 ## Swimlines
 <br>
 
-## Multiple Applications
+## Applications
 <br>
 
-## Multiple Actors
+## Applications' components
+<br>
+
+## Actors
 <br>
 
 ## Top-to-bottom, Right-to-left 
@@ -63,10 +66,7 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 ## Process Start and End
 <br>
 
-## Activity granularity
-<br>
-
-## Process Continuation
+## Activity 
 <br>
 
 ## Sub-processes
@@ -81,10 +81,10 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 ## Error Handling
 <br>
 
-## User Stories continuation
+## User Stories
 <br>
 
-## User Interface screens
+## User Interface Screens
 <br>
 
 ## Other References
