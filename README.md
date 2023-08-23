@@ -71,6 +71,15 @@ In the case the application has a mobile version, this could be represented as <
 
 * "Zinga Orders - Mobile" (for iOS and Android).
 <br>
+<br>
+In addition, business processes don't need to represent any type of technology used or planned to be used. There are many cases business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
+The only notation needed is the entity and a verb, and in most cases, one of the CRUD operations performed is enough. For example:
+
+* "Invoice Created"
+* "Invoice Updated"
+* "Invoice Retrieved" (Read)
+* "Invoice Deleted"
+<br>
 
 ## Top-to-bottom, Right-to-left 
 <br>
