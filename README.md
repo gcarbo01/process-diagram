@@ -12,10 +12,13 @@
 
 ## Intro
 ### Summary
-In large programs, the business process is the best artefact that can be used to describe the functionality, scope, actors and functional permutations. Consequently, the Architects receive these business processes as input for business requirements. <br> 
-Sometimes, Architects need help reading these processes because they are not detailed or granular requirements. Because they are not documented in a way that can transform them into functional and Systema requirements straightaway. So, the Architects need to collaborate with the Business analysts to understand these diagrams and transform them into business and system requirements. <br> 
-These business processes are created with different styles, and usually, there is no unity in notation and granularity if more than one business analyst works on them.  Sometimes business analysts have different skills and opinions on how much detail these diagrams should have.  Some business analysts may use a high-level approach to describe the business flows. On other occasions, they may use detailed notations to describe business logic. <br> 
-This article discusses the several options for using the notations available in the swimlane process diagrams and the activity diagrams and how these correlate to the design of solutions architecture, applications, and the consequent definition of the agile process artefacts such as epics and user stories.  <br> 
+In large programs, the business process is the best artefact that can be used to describe the functionality, scope, actors and functional permutations. Business Processes, if used correctly, can include a large number of Actors, multiple Applications, online and offline activities, can indicate sequentially, can break down large processes into sub-processes, and other benefits. And others.<br> 
+After these processes are finalised, they are usually used as input for many other consequent works, including Architects, who receive them and consider them as input for business requirements and system requirements. <br> 
+Sometimes, Architects need help reading these business processes because they are not detailed enough, or the notations and standards used to document them make them ambiguous. So, to streamline the work of business analysts and architects, it is better to adopt some standards and notations beforehand. This way, the documented business processes can be transformed into functional and system requirements. So, the Architects need to collaborate with the Business analysts to understand these diagrams and transform them into business and system requirements. <br> 
+If there are no standards or agreements on the use of notations, then the business processes are created with different styles, and usually, there is also a difference in the documentation if more than one business analyst works on them.  Sometimes, business analysts have different skills and opinions on how much detail these diagrams should have, and if there is no guidance, they use their criteria.  Some business analysts may use a high-level approach to describe the business flows. On other occasions, they may use detailed notations to describe business logic. <br> 
+This article proposes guidance and the adoption of specific notations; it discusses the benefits and other options for some scenarios when documenting large business processes. The guidance is based on the standards proposed by BPMN and UML, particularly the swimlane process diagrams and the activity diagrams intersection. <be>
+With this guidance, business analysts can collaborate seamlessly. The architects can now use the business processes as they have been produced as input for their solutions, architecture design, and applications. <be>
+Also, the product owners or scrum masters can benefit from these guidances because they can use these business processes as input for their agile process, in particular, to define epics and create user stories.  <br> 
 If the process diagrams are too high level, do not show all the actors involved, or do not show enough details for architects to use as input, it could require that the process diagrams be further refined and clarified before actually being useful for architecture input.  <br> 
 Discussing the purpose and the motivation of defining which standards to use when constructing these process diagrams can increase the productivity of the business analyst and the architects involved in large projects.  <br> 
 <br>
@@ -62,8 +65,8 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 
 ## Activity 
-All Activities should be named with the name of the operation performed (a verb) performed, and the entity (noun). <br>
-The operation is a verb that in most cases can be one of the CRUD operations. For example: <br>
+All Activities should be named for the operation performed (a verb) and the entity (noun). <br>
+The operation is a verb that, in most cases, can be one of the CRUD operations. For example: <br>
 
 * "Create Invoice"
 * "Read Invoice" (Search and Retrieve)
@@ -80,10 +83,10 @@ The operation is a verb that in most cases can be one of the CRUD operations. Fo
 <br>
 ## Process Start and End
 ### Business Interactions
-Usually, Business Processes are documented as granular business interactions. sometimes it is better to break down a large process into several if the process is too big. <br>
-Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, then it is a good decision to break it down into separate artefacts. <br>
-So, the recommendation is that a Business Process must showcase clearly Actors performing business interactions. (In most cases these Actors will be performing business interactions with a system or platform). <br>
-Each of the business interactions must be represented with a Start and a definitive End. However, this does not mean that in the same Business Process, there could be more than one business interaction. And each of them must have its own Start and End notation. 
+Usually, Business Processes are documented as granular business interactions. Sometimes, it is better to break down a large process into several if it is too big. <br>
+Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is a good decision to break it down into separate artefacts. <br>
+So, the recommendation is that a Business Process must showcase Actors performing business interactions. (Usually, these Actors will perform business interactions with a system or platform). <br>
+Each business interaction must be represented with a Start and a definitive End. However, this does not mean that there could be more than one business interaction in the same Business Process. And each of them must have its own Start and End notation. 
 <br>
 ### Temporal Events
 <br>
@@ -97,11 +100,11 @@ Each of the business interactions must be represented with a Start and a definit
 <br>
 
 ## Applications
-Generally, process diagrams include only one application where there is more than one actor, for example, a "User", or "Approver". However, there could be the case that the process describes a process that goes across applications or systems. The actors could be using more than one Application in the same process.
+Generally, process diagrams include only one application with more than one actor, for example, a "User" or "Approver". However, the process describes a process that goes across applications or systems. The actors could be using more than one Application in the same process.
 <br>
 
 ## Applications' components
-Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more that will have different activities each. 
+Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more with different activities each. 
 <br>
 For example, an Application called "Zinga App", will have different components: 
 
@@ -113,10 +116,10 @@ In the case the application has a mobile version, this could be represented as <
 * "Zinga App - Mobile". (for iOS and Android).
 <br>
 <br>
-Breaking down the Application into more than one Entity could lead to adding unnecessary details to business processes. Process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented for describing system components' responsibilities.<br>
+Breaking down the Application into multiple sub-components could add unnecessary details to business processes. Process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented for describing system components' responsibilities.<br>
 <br>
 <br>
-In addition, business processes don't need to represent any type of technology used or planned to be used. There are many cases business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
+In addition, business processes don't need to represent any technology used or planned to be used. There are many cases in which business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
 The only notation needed is the name of the operations (a verb) performed and the entity (noun). See the "Activity" section of this document.
 <br>
 
@@ -125,7 +128,7 @@ The only notation needed is the name of the operations (a verb) performed and th
 <br>
 
 ## Error Handling
-Generally, business processes do not detail Error Handling, unless the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling usually is considered a technical implementation and it is not part of the high-level process design. <br>
+Generally, business processes do not detail Error Handling unless the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
 Business Processes only document happy paths and the most important permutations of the mainstream process.
 <br>
 <br>
