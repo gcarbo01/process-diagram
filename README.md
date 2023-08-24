@@ -72,6 +72,10 @@ The operation is a verb that in most cases can be one of the CRUD operations. Fo
 <br>
 
 ## Process Start and End
+Usually, Business Processes are documented as granular business interactions. sometimes it is better to break down a large process into several if the process is too big. <br>
+Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, then it is a good decision to break it down into separate artefacts. <br>
+So, the recommendation is that a Business Process must showcase clearly Actors performing business interactions. (In most cases these Actors will be performing business interactions with a system or platform). <br>
+Each of the business interactions must be represented with a Start and a definitive End. However, this does not mean that in the same Business Process, there could be more than one business interaction. And each of them must have its own Start and End notation. 
 <br>
 
 
@@ -89,7 +93,7 @@ Generally, process diagrams include only one application where there is more tha
 ## Applications' components
 Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more that will have different activities each. 
 <br>
-For example for an Application called "Zinga Orders", there will have different components to represent it: 
+For example, an Application called "Zinga App", will have different components: 
 
 * "Zinga App - Web". (the web frontend).
 * "Zinga App - Backend". (and the server side).
