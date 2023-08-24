@@ -53,7 +53,7 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 <br>
 <br>
 
-<img src="./images/BPMN-sample1.jpg" align="center" width=105% height=105%>
+<img src="./images/BPMN-sample1.jpg" align="center" width=125% height=125%>
 
 ## Swimlines
 <br>
