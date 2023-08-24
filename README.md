@@ -65,9 +65,9 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 
 ## Activity 
-Activities signify a granular task that is performed. It is important to notice that there could be off-line Activities and on-line Activities, which are meant to be part of an application, system or platform. <be>
-Off-line Activities can be named as best described, for example, by using a verb and nouns: "Collect a pamphlet".<br>
-On the contrary, Online-Activities' names can be more structured since they are meant to be digitised; therefore, they should be named for the operation performed (a verb) and the entity (noun). <br>
+Activities signify a granular task that are performed. It is important to notice that there could be off-line Activities and on-line Activities, which are meant to be part of an application, system or platform. <be>
+Off-line Activities can be named as best described, for example, by using a verb and nouns: "Collect a pamphlet", "Ring the bell". <br>
+On the contrary, Online-Activities' names can be more structured since they are meant to be digitised; therefore, they should be named as the operation performed (a verb) and the entity (noun). <br>
 The operation is a verb that, in most cases, can be one of the CRUD operations. For example: <br>
 
 * "Create Invoice"
@@ -82,7 +82,8 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 ## Top-to-bottom, Right-to-left 
 <br>
 <br>
-<br>
+<be>
+
 ## Process Start and End
 ### Business Interactions
 Usually, Business Processes are documented as granular business interactions. Sometimes, it is better to break down a large process into several if it is too big. <br>
