@@ -65,7 +65,9 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 
 ## Activity 
-All Activities should be named for the operation performed (a verb) and the entity (noun). <br>
+Activities signify a granular task that is performed. It is important to notice that there could be off-line Activities and on-line Activities, which are meant to be part of an application, system or platform. <be>
+Off-line Activities can be named as best described, for example, by using a verb and nouns: "Collect a pamphlet".<br>
+On the contrary, Online-Activities' names can be more structured since they are meant to be digitised; therefore, they should be named for the operation performed (a verb) and the entity (noun). <br>
 The operation is a verb that, in most cases, can be one of the CRUD operations. For example: <br>
 
 * "Create Invoice"
@@ -86,7 +88,7 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 Usually, Business Processes are documented as granular business interactions. Sometimes, it is better to break down a large process into several if it is too big. <br>
 Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is a good decision to break it down into separate artefacts. <br>
 So, the recommendation is that a Business Process must showcase Actors performing business interactions. (Usually, these Actors will perform business interactions with a system or platform). <br>
-Each business interaction must be represented with a Start and a definitive End. However, this does not mean that there could be more than one business interaction in the same Business Process. And each of them must have its own Start and End notation. 
+Each business interaction must be represented with a Start and a definitive End. However, this does not mean there could be more than one business interaction in the same Business Process. And each of them must have its own Start and End notation. 
 <br>
 ### Temporal Events
 <br>
@@ -119,7 +121,7 @@ In the case the application has a mobile version, this could be represented as <
 Breaking down the Application into multiple sub-components could add unnecessary details to business processes. Process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented for describing system components' responsibilities.<br>
 <br>
 <br>
-In addition, business processes don't need to represent any technology used or planned to be used. There are many cases in which business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
+In addition, business processes can be used without representing any technology used or planned to be used. There are many cases in which business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
 The only notation needed is the name of the operations (a verb) performed and the entity (noun). See the "Activity" section of this document.
 <br>
 
@@ -128,7 +130,7 @@ The only notation needed is the name of the operations (a verb) performed and th
 <br>
 
 ## Error Handling
-Generally, business processes do not detail Error Handling unless the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
+Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
 Business Processes only document happy paths and the most important permutations of the mainstream process.
 <br>
 <br>
