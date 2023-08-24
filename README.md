@@ -53,7 +53,7 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 <br>
 <br>
 
-<img src="./images/BPMN-sample1.jpg" align="center" width=35% height=35%>
+<img src="./images/BPMN-sample1.jpg" align="center" width=85% height=85%>
 
 ## Swimlines
 <br>
@@ -67,7 +67,7 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 
 ## Activity 
-Activities signify a granular task that are performed. It is important to notice that there could be off-line Activities and on-line Activities, which are meant to be part of an application, system or platform. <be>
+Activities signify a granular task that is performed. It is important to notice that there could be off-line Activities and on-line Activities, which are meant to be part of an application, system or platform. <be>
 Off-line Activities can be named as best described, for example, by using a verb and nouns: "Collect a pamphlet", "Ring the bell". <br>
 On the contrary, Online-Activities' names can be more structured since they are meant to be digitised; therefore, they should be named as the operation performed (a verb) and the entity (noun). <br>
 The operation is a verb that, in most cases, can be one of the CRUD operations. For example: <br>
