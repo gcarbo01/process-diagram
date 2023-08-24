@@ -48,12 +48,16 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 * Sub-section 15.6 Activity Groups (Page 405) <br>
 <br>
 <br>
-
+<br>
 
 ## Swimlines
 <br>
+<br>
+<br>
 
 ## Actors
+<br>
+<br>
 <br>
 
 
@@ -65,17 +69,23 @@ The operation is a verb that in most cases can be one of the CRUD operations. Fo
 * "Read Invoice" (Search and Retrieve)
 * "Update Invoice" ('Upsert' also permitted)
 * "Delete Invoice"
-<br>
 
+<br>
+<br>
+<br>
 
 ## Top-to-bottom, Right-to-left 
 <br>
-
+<br>
+<br>
 ## Process Start and End
+### Business Interactions
 Usually, Business Processes are documented as granular business interactions. sometimes it is better to break down a large process into several if the process is too big. <br>
 Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, then it is a good decision to break it down into separate artefacts. <br>
 So, the recommendation is that a Business Process must showcase clearly Actors performing business interactions. (In most cases these Actors will be performing business interactions with a system or platform). <br>
 Each of the business interactions must be represented with a Start and a definitive End. However, this does not mean that in the same Business Process, there could be more than one business interaction. And each of them must have its own Start and End notation. 
+<br>
+### Temporal Events
 <br>
 
 
@@ -119,11 +129,16 @@ Generally, business processes do not detail Error Handling, unless the error han
 Business Processes only document happy paths and the most important permutations of the mainstream process.
 <br>
 <br>
+<br>
 
 ## User Stories
 <br>
+<br>
+<br>
 
 ## User Interface Screens
+<br>
+<br>
 <br>
 
 ## Other References
@@ -164,3 +179,5 @@ https://en.wikipedia.org/wiki/Process  <br>
 Workflow - Wiki   <br>
 https://en.wikipedia.org/wiki/Workflow   <br>
 <br>
+<br>
+<br>>
