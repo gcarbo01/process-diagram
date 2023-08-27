@@ -150,6 +150,11 @@ Business Processes only document happy paths and the most important permutations
 <br>
 <br>
 
+## Notations
+<br>
+<br>
+<br>
+
 ## Other References
 Swimlane process - Wiki <br>
 https://en.wikipedia.org/wiki/Swimlane <br>
