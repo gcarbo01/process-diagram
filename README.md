@@ -94,6 +94,9 @@ Business Processes can be fitted at most in an A3 size page, but if the Activiti
 So, the recommendation is that a Business Process must showcase Actors performing business interactions. (Usually, these Actors will perform business interactions with a system or platform). <br>
 Each business interaction must be represented with a Start and a definitive End. However, this does not mean there could be more than one business interaction in the same Business Process. And each of them must have its own Start and End notation. 
 <br>
+<img src="./images/Process-start-end-1.jpg" align="center" width=125% height=125%>
+<img src="./images/Process-start-end-2.jpg" align="center" width=125% height=125%>
+
 ### Temporal Events
 <br>
 
