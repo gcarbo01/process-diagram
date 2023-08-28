@@ -89,21 +89,26 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 
 ## Business Process size
 Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is a good decision to break it down into separate artefacts. <be>
+<br>
+<br>
+<be>
 
 ## Process Start and End
-### OnBusiness Interactions
+### Process Start-End
 Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.
 <br>
 <img src="./images/Process-start-end-1.jpg" align="center" width=125% height=125%>
-### Business Interactions
+### Business Interactions Start-End
 This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
-So, the business process is connected with several business interactions, each with its own Start and End. 
+So, the business process is connected with several business interactions, each with its own Start and End. <br>
 <img src="./images/Process-start-end-2.jpg" align="center" width=125% height=125%>
 <br>
 <br>
 <br>
 
 ## Temporal Events
+<br>
+<br>
 <br>
 
 
