@@ -12,9 +12,9 @@
 
 ## Intro
 ### Summary
-In large programs, the business process is the best artefact that can be used to describe the business interactions, scope, actors, scenarios' permutations, and to some extent, system functionality. <br>
-Business Process diagrams, if used correctly, can be used to summarise a large number of business interactions with multiple Actors, including multiple Applications, online and offline activities, can indicate sequentially Activities, and can break down large processes into sub-processes. <br> 
-After the business processes documentation is completed, they are usually used as input for many other consequent works, including Architects, who receive them and consider them as input for business requirements and system requirements. <br> 
+In large programs, the business process is the best artefact that can be used to describe the business interactions, scope, actors, scenarios' permutations, and, to some extent, system functionality. <br>
+If used correctly, business process diagrams can summarise many business interactions with multiple Actors, including multiple Applications online and offline activities, can indicate sequentially Activities, and can break down large processes into sub-processes. <br> 
+After the business processes documentation is completed, they are usually used as input for many other consequent works, including Architects, who receive them and consider them as input for business and system requirements. <br> 
 Sometimes, Architects need help reading these business processes because they are not detailed enough, or the notations and standards used to document them make them ambiguous. So, to streamline the work of business analysts and architects, it is better to adopt some standards and notations beforehand. This way, the documented business processes can be transformed into functional and system requirements. So, the Architects need to collaborate with the Business analysts to understand these diagrams and transform them into business and system requirements. <br> 
 If there are no standards or agreements on the use of notations, then the business processes are created with different styles, and usually, there is also a difference in the documentation if more than one business analyst works on them.  Sometimes, business analysts have different skills and opinions on how much detail these diagrams should have, and if there is no guidance, they use their criteria.  Some business analysts may use a high-level approach to describe the business flows. On other occasions, they may use detailed notations to describe business logic. <br> 
 This article proposes guidance and the adoption of specific notations; it discusses the benefits and other options for some scenarios when documenting large business processes. The guidance is based on the standards proposed by BPMN and UML, particularly the swimlane process diagrams and the activity diagrams intersection. <be>
@@ -68,9 +68,9 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 
 ## Activity 
-Activities signify a granular task that is performed. It is important to notice that there could be off-line Activities and on-line Activities, which are meant to be part of an application, system or platform. <be>
+Activities signify a granular task that is performed. It is important to notice that there could be off-line and on-line Activities that are meant to be part of an application, system or platform. <be>
 Off-line Activities can be named as best described, for example, by using a verb and nouns: "Collect a pamphlet", "Ring the bell". <br>
-On the contrary, Online-Activities' names can be more structured since they are meant to be digitised; therefore, they should be named as the operation performed (a verb) and the entity (noun). <br>
+On the contrary, Activities' names can be more structured since they are meant to be digitised; therefore, they should be named after the operation performed (a verb) and the entity (noun). <br>
 The operation is a verb that, in most cases, can be one of the CRUD operations. For example: <br>
 
 * "Create Invoice"
@@ -85,31 +85,43 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 ## Top-to-bottom, Right-to-left 
 <br>
 <br>
-<be>
+<br>
+
+## Business Process size
+Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is a good decision to break it down into separate artefacts. <be>
 
 ## Process Start and End
-### Business Interactions
-Usually, Business Processes are documented as granular business interactions. Sometimes, it is better to break down a large process into several if it is too big. <br>
-Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is a good decision to break it down into separate artefacts. <br>
-So, the recommendation is that a Business Process must showcase Actors performing business interactions. (Usually, these Actors will perform business interactions with a system or platform). <br>
-Each business interaction must be represented with a Start and a definitive End. However, this does not mean there could be more than one business interaction in the same Business Process. And each of them must have its own Start and End notation. 
+### OnBusiness Interactions
+Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.
 <br>
 <img src="./images/Process-start-end-1.jpg" align="center" width=125% height=125%>
+### Business Interactions
+This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
+So, the business process is connected with several business interactions, each with its own Start and End. 
 <img src="./images/Process-start-end-2.jpg" align="center" width=125% height=125%>
+<br>
+<br>
+<br>
 
-### Temporal Events
+## Temporal Events
 <br>
 
 
 ## Conditions
 <br>
+<br>
+<br>
 
 
 ## Sub-processes
 <br>
+<br>
+<br>
 
 ## Applications
 Generally, process diagrams include only one application with more than one actor, for example, a "User" or "Approver". However, the process describes a process that goes across applications or systems. The actors could be using more than one Application in the same process.
+<br>
+<br>
 <br>
 
 ## Applications' components
@@ -131,9 +143,13 @@ Breaking down the Application into multiple sub-components could add unnecessary
 In addition, business processes can be used without representing any technology used or planned to be used. There are many cases in which business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
 The only notation needed is the name of the operations (a verb) performed and the entity (noun). See the "Activity" section of this document.
 <br>
+<br>
+<br>
 
 
 ## Colours
+<br>
+<br>
 <br>
 
 ## Error Handling
