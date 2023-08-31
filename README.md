@@ -86,7 +86,7 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 <br>
 <br>
 
-## Top-to-bottom, Right-to-left 
+## Top-to-bottom, Left-to-right 
 <br>
 <br>
 <br>
