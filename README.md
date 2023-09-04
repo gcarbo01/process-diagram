@@ -54,18 +54,14 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 <br>
 <br>
 
-#### Example
-<!-- 
-<img src="./images/BPMN-sample1.jpg" align="center" width=125% height=125%>
--->
-<br>
-
 ## Swimlines
+TBC.
 <br>
 <br>
 <br>
 
 ## Actors
+TBC.
 <br>
 <br>
 <br>
@@ -136,18 +132,21 @@ So, the business process is connected with several business interactions, each w
 <br>
 
 ## Temporal Events
+TBC.
 <br>
 <br>
 <br>
 
 
 ## Conditions
+TBC.
 <br>
 <br>
 <br>
 
 
 ## Sub-processes
+TBC.
 <br>
 <br>
 <br>
@@ -199,6 +198,7 @@ The only notation needed is the name of the operations (a verb) performed and th
 
 
 ## Colours
+TBC.
 <br>
 <br>
 <br>
@@ -211,16 +211,19 @@ Business Processes only document happy paths and the most important permutations
 <br>
 
 ## User Stories
+TBC.
 <br>
 <br>
 <br>
 
 ## User Interface Screens
+TBC.
 <br>
 <br>
 <br>
 
 ## Notations
+TBC.
 <br>
 <br>
 <br>
