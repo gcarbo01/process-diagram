@@ -76,7 +76,8 @@ Activities signify a granular task that is performed as part of the process. <br
 ### Offline and Online
 Notice that there could be offline and online Activities.  <br>
 * Online Activities   <br>
-  They are not performed in any system. They are usually paper-based activities that do not necessarily need to be recorded by a system.  <br>
+  They are not performed in any system. They are usually paper-based activities that do not necessarily need to be recorded by a system.  <be>
+<br>
 * Offline Activities   <br>
   These are Activities performed in a system or platform; the Activities create an immediate digital footprint that can be traced. <br>
 ### Naming conventions
