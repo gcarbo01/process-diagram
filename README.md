@@ -72,16 +72,29 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 
 
 ## Activity 
-Activities signify a granular task that is performed. It is important to notice that there could be off-line and on-line Activities that are meant to be part of an application, system or platform. <be>
-Off-line Activities can be named as best described, for example, by using a verb and nouns: "Collect a pamphlet", "Ring the bell". <br>
+Activities signify a granular task that is performed as part of the process. <be>
+### Offline and Online
+Notice that there could be offline and online Activities.
+* Online Activities
+  They are not performed in any system. They are usually paper-based activities that do not necessarily need to be recorded by a system.
+* Offline Activities
+  These are Activities performed in a system or platform; the Activities create an immediate digital footprint that can be traced. <be>
+### Naming conventions
+#### Offline Activities names
+Off-line Activities can be named as best described, for example, by using a verb and nouns: 
+
+* "Collect a pamphlet"
+* "Ring the bell"
+* "Complete paper form"
+* "Post letter"
+* <be>
+#### Online Activities names
 On the contrary, Activities' names can be more structured since they are meant to be digitised; therefore, they should be named after the operation performed (a verb) and the entity (noun). <br>
 The operation is a verb that, in most cases, can be one of the CRUD operations. For example: <br>
-
 * "Create Invoice"
 * "Read Invoice" (Search and Retrieve)
 * "Update Invoice" ('Upsert' also permitted)
 * "Delete Invoice"
-
 <br>
 <br>
 <br>
