@@ -153,12 +153,15 @@ So, the business process is connected with several business interactions, each w
 <br>
 
 ## Applications
-Generally, process diagrams include only one application with more than one actor, for example:<br>, 
-* "Engineer" Actor
+The Process diagram can include more than one application. for example:<br> 
+<br>
+* "Engineer" Actor <br>
   They use an application called Workforce1 to create and submit project estimations. <br>
-* "Manager" Actor
+<br>
+* "Manager" Actor <br>
   They use the ERP system to approve or reject the estimations.  <br>
-* "Financial Controller" Actor
+<br>
+* "Financial Controller" Actor <br>
   Using the Finance Portal dashboard to see the project estimations.  <br>
 <br>
 <br>
