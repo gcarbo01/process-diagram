@@ -169,7 +169,7 @@ For example, an Application called "Zinga App" will have different components: <
   
 <br>
 In the case the application has a mobile version, this could be represented as <br>
-
+ 
 <img src="./images/Application-components1.jpg" align="center" width=70% height=70%>
 
 <br>
