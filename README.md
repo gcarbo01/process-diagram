@@ -111,7 +111,7 @@ Therefore, it is advised that the processes also follow as much as possible a fl
 <img src="./images/Orientation1.jpg" align="center" width=85% height=85%>
 <br>
 <br>
-<img src="./images/Orientation2.jpg" align="center" width=85% height=85%>
+<img src="./images/Orientation2.jpg" align="center" width=50% height=50%>
 <br>
 <br>
 <br>
