@@ -130,7 +130,7 @@ Business Processes must have at least one Start and one End. A sequential flow c
 ### Business Interactions Start-End
 This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
 So, the business process is connected with several business interactions, each with its own Start and End. <br>
-<img src="./images/Process-start-end-2.jpg" align="center" width=60% height=60%>
+<img src="./images/Process-start-end-2.jpg" align="center" width=75% height=75%>
 <br>
 <br>
 <br>
