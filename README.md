@@ -155,6 +155,7 @@ So, the business process is connected with several business interactions, each w
 ## Applications
 Generally, process diagrams include only one application with more than one actor, for example, a "User" or "Approver". However, the process describes a process that goes across applications or systems. The actors could be using more than one Application in the same process.
 <br>
+<img src="./images/Applications1.jpg" align="center" width=65% height=65%>
 <br>
 <br>
 
