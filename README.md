@@ -126,11 +126,11 @@ Business Processes can be fitted at most in an A3 size page, but if the Activiti
 ### Process Start-End
 Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.
 <br>
-<img src="./images/Process-start-end-1.jpg" align="center" width=70% height=70%>
+<img src="./images/Process-start-end-1.jpg" align="center" width=60% height=60%>
 ### Business Interactions Start-End
 This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
 So, the business process is connected with several business interactions, each with its own Start and End. <br>
-<img src="./images/Process-start-end-2.jpg" align="center" width=70% height=70%>
+<img src="./images/Process-start-end-2.jpg" align="center" width=60% height=60%>
 <br>
 <br>
 <br>
@@ -170,7 +170,7 @@ For example, an Application called "Zinga App" will have different components: <
 <br>
 In the case the application has a mobile version, this could be represented as <br>
  
-<img src="./images/Application-components1.jpg" align="center" width=70% height=70%>
+<img src="./images/Application-components1.jpg" align="center" width=85% height=85%>
 
 <br>
 Breaking down the Application into multiple sub-components could add unnecessary details to business processes. Process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented for describing system components' responsibilities.<br>
