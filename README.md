@@ -108,6 +108,11 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 Most occidental alphabets conform to the convention to be read and written from left to right and read from top to bottom.<be>
 Therefore, it is advised that the processes also follow as much as possible a flow that allows readers to read the activities in sequence from top to bottom and left to write. Regardless if the process is oriented vertically or horizontally, the sequence of activities can be arranged in that conventional order.<br>
 <br>
+<img src="./images/Orientation1.jpg" align="center" width=85% height=85%>
+<br>
+<br>
+<img src="./images/Orientation2.jpg" align="center" width=85% height=85%>
+<br>
 <br>
 <br>
 
