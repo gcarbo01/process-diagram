@@ -270,8 +270,11 @@ For example, in the following diagram, there are Online and Offline Activities; 
 <br>
 
 ## Error Handling
+### Business Processes
 Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
 Business Processes only document happy paths and the most important permutations of the mainstream process. <br>
+### BPMN
+On the contrary, BPMN, UML Activity Diagrams are considered a more detailed and technical diagrams, and they need to have the full path of executions, including the error handling.
 <br>
 <br>
 <br>
