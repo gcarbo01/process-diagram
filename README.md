@@ -179,7 +179,7 @@ Some processes can start from temporal events. For example, <br>
 <br>
 Temporal Events have a distinct start-process notation as follows:<br>
 <br>
-<img src="./images/TemporalEvent1.jpg" align="center" width=85% height=85%>
+<img src="./images/TemporalEvent1.jpg" align="center" width=10% height=10%>
 <br>
 <br>
 <br>
