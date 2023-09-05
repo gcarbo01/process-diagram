@@ -246,24 +246,6 @@ The only notation needed is the name of the operations (a verb) performed and th
 <br>
 <br>
 
-
-## Colours
-All elements in the process diagram must be black and white. However, sometimes it is convenient to apply colours to some elements to categorise and differentiate these from the normal ones.<br>
-<br>
-<br>
-For example, in the following diagram, there are Online and Offline Activities; they have been coloured differently for quick reference. <br>
-* Green Activities <br>
-  They are online, implemented and supported by a system <br>
-<br>
-
-* Light Blue Activities <br>
-  They are online, implemented and supported by a system <br>
-<br>
-<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
-<br>
-<br>
-<br>
-
 ## Error Handling
 ### Business Processes
 Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
@@ -294,6 +276,23 @@ The Notations could include: <br>
 * Font types
 * etc
 <br>
+### Colours
+All elements in the process diagram must be black and white. However, sometimes it is convenient to apply colours to some elements to categorise and differentiate these from the normal ones.<br>
+<br>
+<br>
+For example, in the following diagram, there are Online and Offline Activities; they have been coloured differently for quick reference. <br>
+* Green Activities <br>
+  They are online, implemented and supported by a system <br>
+<br>
+
+* Light Blue Activities <br>
+  They are online, implemented and supported by a system <br>
+<br>
+<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
+<br>
+<br>
+<br>
+
 <br>
 <br>
 
