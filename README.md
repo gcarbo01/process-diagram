@@ -269,11 +269,10 @@ For example, in the following diagram, there are Online and Offline Activities; 
 
 ## Error Handling
 Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
-Business Processes only document happy paths and the most important permutations of the mainstream process.
+Business Processes only document happy paths and the most important permutations of the mainstream process. <br>
 <br>
 <br>
 <br>
-
 
 
 ## User Interface Screens
