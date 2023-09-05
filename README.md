@@ -114,9 +114,9 @@ Notice that there could be offline and online Activities.  <br>
   These are Activities performed in a system or platform; the Activities create an immediate digital footprint that can be traced. <be>
 <br>
 <br>
-For example, in the following diagram, the Online and Offline Activities follow the naming convention above and have been coloured differently for quick reference. <br>
+For example, in the following diagram, there are Online and Offline Activities, they follow the naming convention above and have been coloured differently for quick reference. <br>
 <br>
-<img src="./images/Online-Offline1.jpg" align="center" width=65% height=65%>
+
 <br>
 
 ### Naming conventions
@@ -163,6 +163,7 @@ Business Processes can be fitted at most in an A3 size page, but if the Activiti
 Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.
 <br>
 <img src="./images/Process-start-end-1.jpg" align="center" width=60% height=60%>
+<br>
 ### Business Interactions Start-End
 This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
 So, the business process is connected with several business interactions, each with its own Start and End. <br>
