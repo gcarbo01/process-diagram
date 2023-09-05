@@ -72,19 +72,20 @@ A Lane is a sub-partition within a Process, sometimes within a Pool, and will ex
 
 ## Actors
 The concept of the Actor does not formally exist in the BMPN. <br>
-However, it is important to understand that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br>
+However, it is important to know that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br>
 The User Requirements can be Epics, Agile User Stories, or UML Use Cases. <br>
-The point is that it is advised that adopting the correct naming conventions for the Swimlanes can lead to making the User Requirements much easier because they will have a matching "Actor" in the BPMN business interactions.  <br>
+Therefore, it is advised that adopting the correct naming conventions for the Swimlanes can lead to making the User Requirements much easier because they will have a matching "Actor" in the BPMN business interactions.  <br>
 <br>
 <br>
-**Actor - UML Definition** <br>
+**Actor - Use Cases - UML Methodology** <br>
 As per UML definition, the Actor is used to specify a role played by a user or any other system interacting with the subject by exchanging signals and data. <br>
-These are used when creating Use Cases.<br>
+Actors are used when creating Use Cases.<br>
 <br>
 <br>
-**Agile Persona** <br>
+**Persona - User Stories - Agile Methodology** <br>
 As per the Agile methodology definition, a Persona represents the fictional characteristics of the people most likely to buy your product. Personas provide a detailed summary of your ideal customer, including demographic traits such as location, age, and job title and psychographic traits such as behaviours, feelings, needs, and challenges. <br>
-These are used when creating User Stories.<br>
+Personas are used when creating User Stories.<br>
+The Persona definition is not directly correlated to a Role in the system. However, many times, Personas are used as Application Roles. <br>
 <br>
 <br>
 <br>
