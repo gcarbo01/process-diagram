@@ -179,7 +179,7 @@ Temporal Events can be for example: <br>
 <br>
 Temporal Events have a distinct start-process notation as follows:<br>
 <br>
-<img src="./images/TemporalEvent1.jpg" align="center" width=10% height=10%>
+<img src="./images/TemporalEvent1.jpg" align="center" width=7% height=7%>
 <br>
 <br>
 <br>
