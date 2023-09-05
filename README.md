@@ -60,13 +60,13 @@ Swimlines represent participants in the process. They are subdivided into Pools 
 ### Pool
 A Pool is the graphical representation of a Participant in a Collaboration. It also acts as a “swimlane” and a graphical container for partitioning a set of Activities from other Pools, usually in the context of B2B situations. A Pool MAY have internal details in the form of the Process that will be executed. Or a Pool MAY have no internal details, i.e., it can be a "black box."
 <br>
-<img src="./images/Pool1.jpg" align="center" width=85% height=85%>
+<img src="./images/Pool1.jpg" align="center" width=65% height=65%>
 <br>
 <br>
 ### Lane
 A Lane is a sub-partition within a Process, sometimes within a Pool, and will extend the entire length of the Process, either vertically or horizontally. Lanes are used to organize and categorize Activities. 
 <br>
-<img src="./images/Lane1.jpg" align="center" width=85% height=85%>
+<img src="./images/Lane1.jpg" align="center" width=65% height=65%>
 <br>
 <br>
 
@@ -162,7 +162,7 @@ TBC.
 <br>
 
 ## Applications
-The Process diagram can include more than one application. for example:<br> 
+The Process diagram can include more than one application. For example:<br> 
 <br>
 
 * "Engineer" Actor <br>
