@@ -69,6 +69,7 @@ A Lane is a sub-partition within a Process, sometimes within a Pool, and will ex
 <img src="./images/Lane1.jpg" align="center" width=45% height=45%>
 <br>
 <br>
+<br>
 
 ## Actors
 The concept of the Actor does not formally exist in the BMPN. <br>
