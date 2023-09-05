@@ -85,7 +85,7 @@ Actors are used when creating Use Cases.<br>
 **Persona - User Stories - Agile Methodology** <br>
 As per the Agile methodology definition, a Persona represents the fictional characteristics of the people most likely to buy your product. Personas provide a detailed summary of your ideal customer, including demographic traits such as location, age, and job title and psychographic traits such as behaviours, feelings, needs, and challenges. <br>
 Personas are used when creating User Stories.<br>
-The Persona definition is not directly correlated to a Role in the system. However, many times, Personas are used as Application Roles. <br>
+The Persona definition is not directly correlated to a Role in the system. However, many times, Personas are used equivalently to User Roles. <br>
 <br>
 <br>
 <br>
