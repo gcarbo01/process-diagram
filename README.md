@@ -115,7 +115,6 @@ Notice that there could be offline and online Activities.  <br>
 For example, in the following diagram, there are Online and Offline Activities; they follow a specific naming convention above and have been coloured differently for quick reference. <br>
 <br>
 <img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
-<br>
 
 ### Naming conventions
 #### Offline Activities names
