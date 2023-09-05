@@ -226,7 +226,7 @@ The Process diagram can include more than one application. For example:<br>
 <br>
 
 ### One Application - multiple components
-Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more with different activities each. 
+Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more with different activities each. <br>
 <br>
 For example, an Application called "Zinga App" will have different components: <br>
 
