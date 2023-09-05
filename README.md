@@ -195,9 +195,9 @@ TBC.
 
 ## Sub-processes
 Subprocesses are needed for breaking large processes into several manageable pieces.<br>
-Each Subprocess must be detailed in its diagram. <br>
-It must continue with the same flow inputs and outputs described in the higher-level process. <br>
-Also, the Actors must match the higher-level process. <br>
+Each Subprocess must be detailed in a separated diagram. <br>
+It must continue with the same flow inputs and outputs described in the higher-level flow process. <br>
+Also, the Actors must be the same as in the higher-level flow process. <br>
 <br>
 <img src="./images/SubProcess1.jpg" align="center" width=45% height=45%>
 <br>
