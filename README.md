@@ -91,7 +91,13 @@ The Persona definition is not directly correlated to a Role in the system. Howev
 <br>
 
 ## User Stories
-The User Stories (and Use Cases) can be inferred by identifying one or more Activities in the Actor's swimline. 
+The User Stories can be inferred by identifying one or more Activities in the Actor's swimline. 
+<br>
+<br>
+<br>
+
+## Use Cases
+The Use Cases can be inferred by identifying one or more Activities in the Actor's swimline. 
 <br>
 <br>
 <br>
