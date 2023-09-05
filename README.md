@@ -161,13 +161,14 @@ Business Processes can be fitted at most in an A3 size page, but if the Activiti
 
 ## Process Start and End
 ### Process Start-End
-Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.
+Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.<br>
 <br>
 <img src="./images/Process-start-end-1.jpg" align="center" width=60% height=60%>
 <br>
 ### Business Interactions Start-End
 This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
 So, the business process is connected with several business interactions, each with its own Start and End. <br>
+<br>
 <img src="./images/Process-start-end-2.jpg" align="center" width=72% height=72%>
 <br>
 <br>
