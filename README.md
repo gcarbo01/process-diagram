@@ -285,6 +285,7 @@ In the same way that there is a correlation between Activities and Use Cases or 
 
 ## Notations
 It is recommended that if there is any type of customisation in the notations used in business processes, all these be documented along with the process in a separate section named "Notation".<br>
+<br>
 The Notations could include: <br>
 * Colours
 * Icons
