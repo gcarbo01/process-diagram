@@ -173,7 +173,13 @@ So, the business process is connected with several business interactions, each w
 <br>
 
 ## Temporal Events
-TBC.
+Some processes can start from temporal events. For example, <br>
+* Every day at 1 AM, run the reconciliation process. <br>
+* Every 10 minutes, check for new emails in the Inbox. <br>
+<br>
+Temporal Events have a distinct start-process notation as follows:<br>
+<br>
+<img src="./images/TemporalEvent1.jpg" align="center" width=85% height=85%>
 <br>
 <br>
 <br>
