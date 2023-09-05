@@ -1,7 +1,6 @@
 # process-diagram
 <br>
 
-##
 <img src="./images/process-diagram-main.jpg" align="center" width=85% height=85%>
 
 ##
