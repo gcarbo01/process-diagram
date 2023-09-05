@@ -128,7 +128,6 @@ Off-line Activities can be named as best described, for example, by using a verb
 * "Ring the bell"
 * "Complete paper form"
 * "Post letter"
-<br>
   
 #### Online Activities names
 On the contrary, Activities' names can be more structured since they are meant to be digitised; therefore, they should be named after the operation performed (a verb) and the entity (noun). <br>
