@@ -275,7 +275,7 @@ The Notations could include: <br>
 * Actors types
 * Font types
 * etc
-<br>
+
 ### Colours
 All elements in the process diagram must be black and white. However, sometimes it is convenient to apply colours to some elements to categorise and differentiate these from the normal ones.<br>
 <br>
