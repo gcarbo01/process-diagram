@@ -113,6 +113,11 @@ Notice that there could be offline and online Activities.  <br>
 * Offline Activities   <br>
   These are Activities performed in a system or platform; the Activities create an immediate digital footprint that can be traced. <be>
 <br>
+<br>
+For example, in the following diagram, the Online and Offline Activities follow the naming convention above and have been coloured differently for quick reference. <br>
+<br>
+<img src="./images/Online-Offline1.jpg" align="center" width=65% height=65%>
+<br>
 
 ### Naming conventions
 #### Offline Activities names
