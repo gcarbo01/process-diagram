@@ -244,7 +244,17 @@ The only notation needed is the name of the operations (a verb) performed and th
 
 
 ## Colours
-TBC.
+All elements in the process diagram must be black and white. However, sometimes it is convenient to apply colours to some elements to categorise and differentiate these from the normal ones.<br>
+<br>
+<br>
+For example, in the following diagram, there are Online and Offline Activities; they have been coloured differently for quick reference. <br>
+* Green Activities
+  They are online, implemented and supported by a system <br>
+<br>
+* Light Blue Activities
+  They are online, implemented and supported by a system <br>
+<br>
+<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
 <br>
 <br>
 <br>
@@ -267,7 +277,14 @@ In the same way that there is a correlation between Activities and Use Cases or 
 <br>
 
 ## Notations
-TBC.
+It is recommended that if there is any type of customisation in the notations used in business processes, all these be documented along with the process in a separate section named "Notation".<br>
+The Notations could include: <br>
+* Colours
+* Icons
+* Arrow types
+* Actors types
+* Font types
+* etc
 <br>
 <br>
 <br>
