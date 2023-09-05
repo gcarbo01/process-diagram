@@ -230,7 +230,7 @@ For example, an Application called "Zinga App" will have different components: <
 <br>
 In the case the application has a mobile version, this could be represented as <br>
  
-<img src="./images/Application-components1.jpg" align="center" width=85% height=85%>
+<img src="./images/Application-components1.jpg" align="center" width=90% height=90%>
 
 <br>
 Breaking down the Application into multiple sub-components could add unnecessary details to business processes. Process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented for describing system components' responsibilities.<br>
@@ -248,10 +248,11 @@ All elements in the process diagram must be black and white. However, sometimes 
 <br>
 <br>
 For example, in the following diagram, there are Online and Offline Activities; they have been coloured differently for quick reference. <br>
-* Green Activities
+* Green Activities <br>
   They are online, implemented and supported by a system <br>
 <br>
-* Light Blue Activities
+
+* Light Blue Activities <br>
   They are online, implemented and supported by a system <br>
 <br>
 <img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
