@@ -106,12 +106,12 @@ The Use Cases can be inferred by identifying one or more Activities in the Actor
 Activities signify a granular task that is performed as part of the process. <br>
 ### Offline and Online
 Notice that there could be offline and online Activities.  <br>
-* Online Activities   <br>
-  They are not performed in any system. They are usually paper-based activities that cannot be or do not necessarily need to be recorded by a system.  <be>
+* Offline Activities   <br>
+  They are not performed in any system. They are usually paper-based activities that cannot be or do not necessarily create any evidence that can be recorded in a systems. <be>
 <br>
 
-* Offline Activities   <br>
-  These are Activities performed in a system or platform; the Activities create an immediate digital footprint that can be traced. <be>
+* Online Activities   <br>
+  These are Activities in a digital system and they create, modify or delete business records that can be traced back to the User.<br>
 <br>
 <br>
 For example, in the following diagram, there are Online and Offline Activities; they follow a specific naming convention above and have been coloured differently for quick reference. <br>
@@ -147,6 +147,7 @@ Therefore, it is advised that the processes also follow as much as possible a fl
 <img src="./images/Orientation1.jpg" align="center" width=85% height=85%>
 <br>
 <br>
+
 <img src="./images/Orientation2.jpg" align="center" width=65% height=65%>
 <br>
 <br>
