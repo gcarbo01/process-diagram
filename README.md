@@ -143,8 +143,6 @@ Therefore, it is advised that the processes also follow as much as possible a fl
 <br>
 ### Horizontal
 <img src="./images/Orientation1.jpg" align="center" width=85% height=85%>
-<br>
-<br>
 
 ### Vertical
 <img src="./images/Orientation2.jpg" align="center" width=65% height=65%>
