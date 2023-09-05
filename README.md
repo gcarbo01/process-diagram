@@ -253,8 +253,9 @@ Business Processes only document happy paths and the most important permutations
 
 
 ## User Interface Screens
-When defining the Activities for a workflow, there could be the opportunity to correlate these with actual Applications' User interface screens. <br>
-So, the Activities could match User scenarios realised through a user interface. <br>
+In the same way that there is a correlation between Activities and Use Cases or User Stories, there is also a correlation between Activities or a group of Activities (Business Interaction) with Application screens. So, When defining the Activities for a workflow, there could be the opportunity to start correlating these with Applications' User interfaces.<br>
+<br>
+<img src="./images/Screen1.jpg" align="center" width=65% height=65%>
 <br>
 <br>
 <br>
