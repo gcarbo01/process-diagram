@@ -58,7 +58,7 @@ https://www.omg.org/spec/UML/2.5.1/PDF <br>
 Swimlines represent participants in the process. They are subdivided into Pools and Lanes.
 <br>
 ### Pool
-A Pool is the graphical representation of a Participant in a Collaboration. It also acts as a “swimlane” and a graphical container for partitioning a set of Activities from other Pools, usually in the context of B2B situations. A Pool MAY have internal details in the form of the Process that will be executed. Or a Pool MAY have no internal details, i.e., it can be a "black box." <br>
+A Pool is the graphical representation of a Participant in a Collaboration. It also acts as a “swimlane” and a graphical container for partitioning a set of Activities from other Pools, usually in the context of multiple organisations. A Pool MAY have internal details in the form of the Process that will be executed.<br>
 <br>
 <img src="./images/Pool1.jpg" align="center" width=45% height=45%>
 <br>
