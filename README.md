@@ -172,7 +172,8 @@ So, the business process is connected with several business interactions, each w
 <br>
 
 ## Temporal Events
-Some processes can start from temporal events. For example, <br>
+Sometimes, Business Analyst forget to model processes that are triggered by time events. These events are valid business interactions therefore they must be captured as part of the business requirements. So, here it is the correct notation how to start a Temporal Event. <br>
+Temporal Events can be for example: <br>
 * Every day at 1 AM, run the reconciliation process. <br>
 * Every 10 minutes, check for new emails in the Inbox. <br>
 <br>
@@ -203,6 +204,7 @@ Also, the Actors must match the higher-level process. <br>
 <br>
 
 ## Applications
+### Multiple Applications
 The Process diagram can include more than one application. For example:<br> 
 <br>
 
@@ -222,7 +224,7 @@ The Process diagram can include more than one application. For example:<br>
 <br>
 <br>
 
-## Applications' components
+### One Application - multiple components
 Generally, the process diagrams describe an Application as a single participant or Actor in the process diagram. However, there could be the need to detail the Application in several components and describe some of the Application taxonomy. The Application will no longer be a single swimlane but two or more with different activities each. 
 <br>
 For example, an Application called "Zinga App" will have different components: <br>
