@@ -148,7 +148,7 @@ Therefore, it is advised that the processes also follow as much as possible a fl
 <br>
 
 ## Business Process size
-Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is a good decision to break it down into separate artefacts. <be>
+Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is wise to break it down into separate artefacts. <be>
 <br>
 <br>
 <be>
@@ -253,7 +253,8 @@ Business Processes only document happy paths and the most important permutations
 
 
 ## User Interface Screens
-TBC.
+When defining the Activities for a workflow, there could be the opportunity to correlate these with actual Applications' User interface screens. <br>
+So, the Activities could match User scenarios realised through a user interface. <br>
 <br>
 <br>
 <br>
