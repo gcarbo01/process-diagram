@@ -173,6 +173,7 @@ So, the business process is connected with several business interactions, each w
 
 ## Temporal Events
 Sometimes, Business Analyst forget to model processes that are triggered by time events. These events are valid business interactions therefore they must be captured as part of the business requirements. So, here it is the correct notation how to start a Temporal Event. <br>
+<br>
 Temporal Events can be for example: <br>
 * Every day at 1 AM, run the reconciliation process. <br>
 * Every 10 minutes, check for new emails in the Inbox. <br>
