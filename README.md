@@ -67,7 +67,10 @@ A Lane is a sub-partition within a Process, sometimes within a Pool, and will ex
 <br>
 
 ## Actor - Swimlanes
-The concept of the Actor does not formally exist in the BMPN. <br>
+The Swimlanes represent Actors. <br>
+<br>
+The concept of the 'Actor' does not formally exist in the BMPN. <br>
+<br>
 However, it is important to know that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br>
 The User Requirements can be Epics, Agile User Stories, or UML Use Cases. <br>
 Therefore, it is advised that adopting the correct naming conventions for the Swimlanes can lead to making the User Requirements much easier because they will have a matching "Actor" in the BPMN business interactions.  <br>
