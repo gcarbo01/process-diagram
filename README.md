@@ -134,7 +134,6 @@ Notice that there could be offline and online Activities.  <br>
 
 * Online Activities   <br>
   These are Activities in a digital system and they create, modify or delete business records that can be traced back to the User.<br>
-<br>
 
 ### Example
 For example, in the following diagram, there are Online and Offline Activities; they follow a specific naming convention above and have been coloured differently for quick reference. <br>
