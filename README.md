@@ -18,10 +18,9 @@ This article proposes guidance and the adoption of specific notations; it discus
 With this guidance, business analysts can collaborate seamlessly. The architects can now use the business processes as they have been produced as input for their solutions, architecture design, and applications. <be>
 Also, the product owners or scrum masters can benefit from these guidances because they can use these business processes as input for their agile process, in particular, to define epics and create user stories.  <br> 
 If the process diagrams are too high level, do not show all the actors involved, or do not show enough details for architects to use as input, it could require that the process diagrams be further refined and clarified before actually being useful for architecture input.  <br> 
-Discussing the purpose and the motivation of defining which standards to use when constructing these process diagrams can increase the productivity of the business analyst and the architects involved in large projects.  <br> 
-c
+Discussing the purpose and the motivation of defining which standards to use when constructing these process diagrams can increase the productivity of the business analyst and the architects involved in large projects.  
+
 #### References
-<br>
 Most of the notations are taken from the modern definition of OMG BPM and OMG UML Activity Diagrams. <br>
 <br>
 Object Management Group  (OMG®)<br>
@@ -67,7 +66,7 @@ A Lane is a sub-partition within a Process, sometimes within a Pool, and will ex
 <br>
 <br>
 
-## Actor - Business Process Swimlines
+## Actor - Business Process Swimlanes
 The concept of the Actor does not formally exist in the BMPN. <br>
 However, it is important to know that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br>
 The User Requirements can be Epics, Agile User Stories, or UML Use Cases. <br>
@@ -83,7 +82,7 @@ Therefore, it is advised that adopting the correct naming conventions for the Sw
 |1|		Actor - Swimlines - Business Process|A Swimline is the graphical representation of a Participant collaborating in a process.|
 |2|		Actor - Use Cases - UML Methodology| As per UML definition, the Actor is used to specify a role played by a user or any other system interacting with the subject by exchanging signals and data. <br> Actors are used when creating Use Cases.<br> The Use Cases can be inferred by identifying one or more Activities in the Actor's swimlane. <br>|
 |3|		Persona - User Stories - Agile Methodology|As per the Agile methodology definition, a Persona represents the fictional characteristics of the people most likely to buy your product. Personas provide a detailed summary of your ideal customer, including demographic traits such as location, age, and job title and psychographic traits such as behaviours, feelings, needs, and challenges. <br> Personas are used when creating User Stories. The Persona definition is not directly correlated to a Role in the system. However, many times, Personas are used equivalently to User Roles.<br> The User Stories can be inferred by identifying one or more Activities in the Actor's swimlane. <br>|
-|4|		User Roles - Application Role|A User Role is a predefined category that can be assigned to users based on the responsibilities they need to perform in a system. <br> Some of the User Roles surface early on in the analysis and design stages. These are not definitive, and it is recommended to have a formal rationalisation process to make the Roles definitive and confirm them before the detailed design stage.<br> Although these early identified User Roles can change, they can be used as provisional and be part of the analysis and design process.<br> The User Role Responsabilities  can be inferred by identifying one or more Activities in the Actor's swimlane. <br>||
+|4|		User Roles - Application Role|A User Role is a predefined category that can be assigned to users based on the responsibilities they need to perform in a system. <br> Some User Roles surface early in the analysis and design stages. These are not definitive, and it is recommended to have a formal rationalisation process to make the Roles definitive and confirm them before the detailed design stage.<br> Although these early identified User Roles can change, they can be used as provisional and be part of the analysis and design process.<br> The User Role Responsabilities  can be inferred by identifying one or more Activities in the Actor's swimlane. <br>||
 
 <br>
 <br>
@@ -188,7 +187,7 @@ Temporal Events have a distinct start-process notation as follows:<br>
 Sometimes, documenting the Conditions in business flows can be easy, or sometimes, it can contribute to convoluted flows. So, to have a standard principle for this is recommended the following:<br>
 <br>
 Temporal Events can be, for example, <br>
-* Conditions are rhombus shape, and they should only lead to True or False, Yes or No Answers. <br>
+* Conditions are rhombus shape and should only lead to True or False, Yes or No Answers. <br>
 * Before the Condition, it should have an Activity that evaluates the Business Rules and the Conditions. <br>
 
 ### Example
