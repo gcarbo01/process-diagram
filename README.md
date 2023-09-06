@@ -217,7 +217,7 @@ Also, the Actors must be the same as in the higher-level flow process. <br>
 <br>
 <br>
 
-## Applications
+## Systems and Applications
 ### Multiple Applications
 The Process diagram can include more than one application. For example:<br> 
 <br>
