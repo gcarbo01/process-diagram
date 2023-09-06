@@ -268,13 +268,16 @@ In the same way that there is a correlation between Activities and Use Cases or 
 ## Notations
 
 ### Standard Notations
-Business Process, BPMN, UML Activity Diagrams have plenty of notations to specify different type of Activities, Messages, Text Anotations, etc.<br>
-**So, first and foremost we recomend to refresh and review these notations before deciding creating a customised element that need to be explained.** 
+Business Process, BPMN, and UML Activity Diagrams have plenty of notations to specify different types of Activities, Messages, Text Annotations, etc.<br>
+<br>
+**So, first and foremost, we recommend refreshing and reviewing these notations before creating a customised element that needs to be explained.** <br>
+<br>
+Find these standard definitions in the Main Reference table in this document.
 
 ### Custom Notations
-If it is decided to add an extra notation, even the use of a colour applied to elements, then we strongly recomend to have these documented along with the business process. They are usually described in a separate section named "Notations".<br>
+If you decide to add an extra notation, even using a colour applied to elements. We strongly recommend that you document these along with the business process. They are usually described in a separate section named "Notations".<br>
 <br>
-Custom Notations could include for example: <br>
+Custom Notations could include, for example: <br>
 * Colours
 * Icons
 * Arrow types
