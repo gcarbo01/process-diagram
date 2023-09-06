@@ -151,7 +151,7 @@ Business Processes can be fitted at most in an A3 size page, but if the Activiti
 <br>
 <br>
 
-## Process Start and End
+## Start and End
 ### Process Start-End
 Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.<br>
 
