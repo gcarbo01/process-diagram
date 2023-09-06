@@ -68,7 +68,7 @@ A Lane is a sub-partition within a Process, sometimes within a Pool, and will ex
 <br>
 <br>
 
-## Actors
+## Actor - Business Process Swimlines
 The concept of the Actor does not formally exist in the BMPN. <br>
 However, it is important to know that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br>
 The User Requirements can be Epics, Agile User Stories, or UML Use Cases. <br>
@@ -89,25 +89,10 @@ The Persona definition is not directly correlated to a Role in the system. Howev
 <br>
 <br>
 <br>
-**User Roles** <br>
+**User Roles - Application Role** <br>
 A User Role is a predefined category that can be assigned to users based on the responsibilities they need to perform in a system. <br>
 Some of the User Roles surface early on in the analysis and design stages. These are not definitive, and it is recommended to have a formal rationalisation process to make the Roles definitive and confirm them before the detailed design stage.<br>
 Although these early identified User Roles can change, they can be used as provisional and be part of the analysis and design process.<br>
-<br>
-<br>
-<br>
-
-| #	| Swimline Actor <br> Business Process | Actor <br> UML Use Case | Persona <br> Agile User Story | User Role <br>> System|
-| --- | --- | --- | --- |
-|1|		Activity|Green Colour| Online Activity. <br>Performed in an Application||
-|2|		Activity|LighBlue Colour| Offline Activity. <br>Not performed in an Application||
-|3|		Flow Connector|Dotted line| Connecting intermediate Start and End Business Interactions||
-|4|		Browser Icon|New|Indicates the Client component of an Application||
-|5|		Mobile Icon|New|Indicates the Client component of an Application||
-|6|		Server Icon|New|Indicates the Server component of an Application||
-|7|		Activity Name|Bold Italic Front|Indicates the Activity is new. <br> There is a gap in the current process||
-|8|		Actor (Swimline)|Light Yellow Colour|Indicates the Actor is an existing Role in the sytem||
-|9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem||
 
 <br>
 <br>
@@ -124,6 +109,18 @@ The Use Cases can be inferred by identifying one or more Activities in the Actor
 <br>
 <br>
 <br>
+| #	| Element  | Description | 
+| --- | --- | --- |
+|1|		Actor - Business Process Swimlines|The concept of the Actor does not formally exist in the BMPN. <br>
+However, it is important to know that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br>
+The User Requirements can be Epics, Agile User Stories, or UML Use Cases. <br>
+Therefore, it is advised that adopting the correct naming conventions for the Swimlanes can lead to making the User Requirements much easier because they will have a matching "Actor" in the BPMN business interactions.|
+|2|		Actor - Use Cases - UML Methodology| As per UML definition, the Actor is used to specify a role played by a user or any other system interacting with the subject by exchanging signals and data. <br> Actors are used when creating Use Cases|
+|3|		Persona - User Stories - Agile Methodology|As per the Agile methodology definition, a Persona represents the fictional characteristics of the people most likely to buy your product. Personas provide a detailed summary of your ideal customer, including demographic traits such as location, age, and job title and psychographic traits such as behaviours, feelings, needs, and challenges. <br> Personas are used when creating User Stories.
+The Persona definition is not directly correlated to a Role in the system. However, many times, Personas are used equivalently to User Roles.|
+|4|		User Roles - Application Role|A User Role is a predefined category that can be assigned to users based on the responsibilities they need to perform in a system. <br>
+Some of the User Roles surface early on in the analysis and design stages. These are not definitive, and it is recommended to have a formal rationalisation process to make the Roles definitive and confirm them before the detailed design stage.<br> Although these early identified User Roles can change, they can be used as provisional and be part of the analysis and design process.|
+
 
 ## Activity 
 Activities signify a granular task that is performed as part of the process. <br>
