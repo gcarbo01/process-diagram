@@ -74,6 +74,9 @@ Therefore, it is advised that adopting the correct naming conventions for the Sw
 
 <br>
 
+**Correlation Table** <br>
+<br>
+
 | #	| Element  | Description | 
 | --- | --- | --- |
 |1|		Actor Business Process Swimlines|A Pool is the graphical representation of a Participant collaborating in a process.|
