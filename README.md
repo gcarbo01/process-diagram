@@ -177,9 +177,9 @@ So, the business process is connected with several business interactions, each w
 <br>
 
 ## Temporal Events
-Sometimes, Business Analyst forget to model processes that are triggered by time events. These events are valid business interactions therefore they must be captured as part of the business requirements. So, here it is the correct notation how to start a Temporal Event. <br>
+Sometimes, Business analysts forget to model processes triggered by time events. These events are valid business interactions; therefore, they must be captured as part of the business requirements. So, here is the correct notation for how to start a Temporal Event. <br>
 <br>
-Temporal Events can be for example: <br>
+Temporal Events can be for example, <br>
 * Every day at 1 AM, run the reconciliation process. <br>
 * Every 10 minutes, check for new emails in the Inbox. <br>
 <br>
@@ -200,7 +200,7 @@ TBC.
 
 ## Sub-processes
 Subprocesses are needed for breaking large processes into several manageable pieces.<br>
-Each Subprocess must be detailed in a separated diagram. <br>
+Each Subprocess must be detailed in a separate diagram. <br>
 It must continue with the same flow inputs and outputs described in the higher-level flow process. <br>
 Also, the Actors must be the same as in the higher-level flow process. <br>
 <br>
@@ -308,25 +308,12 @@ They can be used for categorisation of existing or new elements. The example bel
 |9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem|
 <br>
 
-### Colours
-All elements in the process diagram must be black and white. However, sometimes it is convenient to apply colours to some elements to categorise and differentiate these from the normal ones.<br>
-<br>
-<br>
-For example, in the following diagram, there are Online and Offline Activities; they have been coloured differently for quick reference. <br>
-* Green Activities <br>
-  They are online, implemented and supported by a system <br>
-<br>
-
-* Light Blue Activities <br>
-  They are online, implemented and supported by a system <br>
-<br>
-<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
+### Example
+<img src="./images/CustomisedNotation1.jpg" align="center" width=85% height=85%>
 <br>
 <br>
 <br>
 
-<br>
-<br>
 
 ## Other References
 Swimlane process - Wiki <br>
