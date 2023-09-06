@@ -323,6 +323,7 @@ They can be used for categorisation of existing or new elements. The example bel
 |8|		Actor (Swimline)|Light Yellow Colour|Indicates the Actor is an existing Role in the sytem|
 |9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem|
 
+**Process with customised Elements**
 <br>
 <img src="./images/CustomisedNotation1.jpg" align="center" width=55% height=55%>
 <br>
