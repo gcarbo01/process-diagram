@@ -273,7 +273,7 @@ The only notation needed is the name of the operations (a verb) performed and th
 Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
 Business Processes only document happy paths and the most important permutations of the mainstream process. <br>
 ### BPMN
-On the contrary, BPMN and UML Activity Diagrams are considered more detailed and technical diagrams, and they need to have the full path of executions, including error handling.
+On the contrary, BPMN and UML Activity Diagrams are considered more detailed and technical diagrams, and they need to have the full path of executions, including error handling.<br>
 <br>
 <br>
 <br>
