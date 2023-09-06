@@ -207,7 +207,6 @@ Sometimes, documenting the Conditions in business flows can be easy, or sometime
 Temporal Events can be, for example, <br>
 * Conditions are rhombus shape, and they should only lead to True or False, Yes or No Answers. <br>
 * Before the Condition, it should have an Activity that evaluates the Business Rules and the Conditions. <br>
-<br>
 
 ### Example
 For Example: <br>
