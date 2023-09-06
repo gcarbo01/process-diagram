@@ -111,16 +111,16 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 ### Offline and Online
 Notice that there could be offline and online Activities.  <br>
 * Offline Activities   <br>
-  They are not performed in any system. They are usually paper-based activities that cannot be or do not necessarily create any evidence that can be recorded in a systems. <be>
+  They are not performed in any system. They are usually paper-based activities that cannot be or do not necessarily create any evidence that can be recorded in a system. <be>
 <br>
 
 * Online Activities   <br>
-  These are Activities in a digital system and they create, modify or delete business records that can be traced back to the User.<br>
+  These are Activities in a digital system, and they create, modify or delete business records that can be traced back to the User.<br>
 
 ### Example
 For example, in the following diagram, there are Online and Offline Activities; they follow a specific naming convention above and have been coloured differently for quick reference. <br>
 <br>
-<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
+<img src="./images/Online-Offline1.jpg" align="center" width=75% height=75%>
 <br>
 <br>
 <br>
