@@ -326,7 +326,7 @@ They can be used for categorisation of existing or new elements. The example bel
 |9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem|
 
 <br>
-<img src="./images/CustomisedNotation1.jpg" align="center" width=70% height=70%>
+<img src="./images/CustomisedNotation1.jpg" align="center" width=55% height=55%>
 <br>
 <br>
 <br>
