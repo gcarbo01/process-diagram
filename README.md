@@ -306,10 +306,9 @@ They can be used for categorisation of existing or new elements. The example bel
 |7|		Activity Name|Bold Italic Front|Indicates the Activity is new. <br> There is a gap in the current process|
 |8|		Actor (Swimline)|Light Yellow Colour|Indicates the Actor is an existing Role in the sytem|
 |9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem|
-<br>
 
 ### Example
-<img src="./images/CustomisedNotation1.jpg" align="center" width=85% height=85%>
+<img src="./images/CustomisedNotation1.jpg" align="center" width=70% height=70%>
 <br>
 <br>
 <br>
