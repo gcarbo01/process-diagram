@@ -326,7 +326,7 @@ They can be used for categorisation of existing or new elements. The example bel
 **Process with customised Elements** <br>
 <br>
 <img src="./images/CustomisedNotation1.jpg" align="center" width=55% height=55%>
-<img src="./images/CustomisedNotation2.jpg" align="center" width=45% height=45%>
+<img src="./images/CustomisedNotation2.jpg" align="center" width=25% height=25%>
 <br>
 <br>
 <br>
