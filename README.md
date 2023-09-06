@@ -65,6 +65,7 @@ A Lane is a sub-partition within a Process, sometimes within a Pool, and will ex
 <br>
 <br>
 <br>
+<br>
 
 ## Actor - Business Process Swimlines
 The concept of the Actor does not formally exist in the BMPN. <br>
