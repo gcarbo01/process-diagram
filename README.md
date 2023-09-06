@@ -135,7 +135,7 @@ Therefore, it is advised that the processes also follow as much as possible a fl
 <img src="./images/Orientation1.jpg" align="center" width=85% height=85%>
 
 #### Vertical
-<img src="./images/Orientation2.jpg" align="center" width=65% height=65%>
+<img src="./images/Orientation2.jpg" align="center" width=60% height=60%>
 <br>
 <br>
 <br>
