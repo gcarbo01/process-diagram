@@ -272,18 +272,35 @@ Business Process, BPMN, and UML Activity Diagrams have plenty of notations to sp
 <br>
 **So, first and foremost, we recommend refreshing and reviewing these notations before creating a customised element that needs to be explained.** <br>
 <br>
-Find these standard definitions in the Main Reference table in this document.
+Please look at these standard definitions in the Main Reference table in this document.
 
 ### Custom Notations
 If you decide to add an extra notation, even using a colour applied to elements. We strongly recommend that you document these along with the business process. They are usually described in a separate section named "Notations".<br>
+In most cases, customisation to notations is used to create extra categorisation for the Business Process being documented.<br>
 <br>
 Custom Notations could include, for example: <br>
 * Colours
-* Icons
 * Arrow types
 * Actors types
+* Icons
 * Font types
 * etc
+<br>
+They can be used for categorisation of existing or new elements. The example below is just for illustration purposes:<br>
+<br>
+
+| #	| Element  | Customisation | Description |
+| --- | --- | --- | --- |
+|1|		Activity|Green Colour| Online Activity. <br>Performed in an Application|
+|2|		Activity|LighBlue Colour| Offline Activity. <br>Not performed in an Application|
+|3|		Flow Connector|Dotted line| Connecting intermediate Start and End Business Interactions|
+|4|		Browser Icon|New|Indicates the Client component of an Application|
+|5|		Mobile Icon|New|Indicates the Client component of an Application|
+|6|		Server Icon|New|Indicates the Server component of an Application|
+|7|		Activity Name|Bold Italic Front|Indicates the Activity is new. <br> There is a gap in the current process|
+|8|		Actor (Swimline)|Light Yellow Colour|Indicates the Actor is an existing Role in the sytem|
+|9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem|
+<br>
 
 ### Colours
 All elements in the process diagram must be black and white. However, sometimes it is convenient to apply colours to some elements to categorise and differentiate these from the normal ones.<br>
