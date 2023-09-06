@@ -108,19 +108,6 @@ The Use Cases can be inferred by identifying one or more Activities in the Actor
 
 ## Activity 
 Activities signify a granular task that is performed as part of the process. <br>
-### Offline and Online
-Notice that there could be offline and online Activities.  <br>
-* Offline Activities   <br>
-  They are not performed in any system. They are usually paper-based activities that cannot be or do not necessarily create any evidence that can be recorded in a systems. <be>
-<br>
-
-* Online Activities   <br>
-  These are Activities in a digital system and they create, modify or delete business records that can be traced back to the User.<br>
-<br>
-<br>
-For example, in the following diagram, there are Online and Offline Activities; they follow a specific naming convention above and have been coloured differently for quick reference. <br>
-<br>
-<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
 
 ### Naming conventions
 #### Offline Activities names
@@ -138,6 +125,21 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 * "Read Invoice" (Search and Retrieve)
 * "Update Invoice" ('Upsert' also permitted)
 * "Delete Invoice"
+  
+### Offline and Online
+Notice that there could be offline and online Activities.  <br>
+* Offline Activities   <br>
+  They are not performed in any system. They are usually paper-based activities that cannot be or do not necessarily create any evidence that can be recorded in a systems. <be>
+<br>
+
+* Online Activities   <br>
+  These are Activities in a digital system and they create, modify or delete business records that can be traced back to the User.<br>
+<br>
+
+### Example
+For example, in the following diagram, there are Online and Offline Activities; they follow a specific naming convention above and have been coloured differently for quick reference. <br>
+<br>
+<img src="./images/Online-Offline1.jpg" align="center" width=85% height=85%>
 <br>
 <br>
 <br>
@@ -146,10 +148,11 @@ The operation is a verb that, in most cases, can be one of the CRUD operations. 
 Most occidental alphabets conform to the convention to be read and written from left to right and read from top to bottom.<be>
 Therefore, it is advised that the processes also follow as much as possible a flow that allows readers to read the activities in sequence from top to bottom and left to write. Regardless if the process is oriented vertically or horizontally, the sequence of activities can be arranged in that conventional order.<br>
 
-### Horizontal
+### Example
+#### Horizontal
 <img src="./images/Orientation1.jpg" align="center" width=85% height=85%>
 
-### Vertical
+#### Vertical
 <img src="./images/Orientation2.jpg" align="center" width=65% height=65%>
 <br>
 <br>
@@ -164,12 +167,19 @@ Business Processes can be fitted at most in an A3 size page, but if the Activiti
 ## Process Start and End
 ### Process Start-End
 Business Processes must have at least one Start and one End. A sequential flow connects all the Activities.<br>
-<br>
-<img src="./images/Process-start-end-1.jpg" align="center" width=60% height=60%>
-<br>
+
 ### Business Interactions Start-End
 This alternative can be used for large processes where it is useful to break down a large process into several "chunks". <be>
 So, the business process is connected with several business interactions, each with its own Start and End. <br>
+
+### Example
+
+**Sequential Flow** <br>
+<br>
+<img src="./images/Process-start-end-1.jpg" align="center" width=60% height=60%>
+<br>
+
+**Multiple Business Interactions** <br>
 <br>
 <img src="./images/Process-start-end-2.jpg" align="center" width=72% height=72%>
 <br>
@@ -198,10 +208,10 @@ Temporal Events can be, for example, <br>
 * Conditions are rhombus shape, and they should only lead to True or False, Yes or No Answers. <br>
 * Before the Condition, it should have an Activity that evaluates the Business Rules and the Conditions. <br>
 <br>
-For Example: <br>
-<br>
-<img src="./images/Conditions1.jpg" align="center" width=95% height=95%>
 
+### Example
+For Example: <br>
+<img src="./images/Conditions1.jpg" align="center" width=95% height=95%>
 <br>
 <br>
 <br>
@@ -235,6 +245,7 @@ The Process diagram can include more than one application. For example:<br>
   They use the Finance Portal dashboard to see the project estimations.  <br>
 <br>
 
+### Example
 <img src="./images/Applications1.jpg" align="center" width=45% height=45%>
 
 ### One Application - multiple components
@@ -245,18 +256,15 @@ For example, an Application called "Zinga App" will have different components: <
 * "Zinga App - Mobile". (the web frontend).
 * "Zinga App - Web". (the web frontend).
 * "Zinga App - Backend". (and the server side).
-  
-<br>
-In the case the application has a mobile version, this could be represented as <br>
+
+### Example
 <br>
 <img src="./images/Application-components1.jpg" align="center" width=90% height=90%>
-
 <br>
 Breaking down the Application into multiple sub-components could add unnecessary details to business processes. Process diagrams are not a substitute for Sequence Diagrams in terms of the amount of details that can be represented for describing system components' responsibilities.<br>
 <br>
-<br>
 In addition, business processes can be used without representing any technology used or planned to be used. There are many cases in which business analysts add extra notations to signify what type of storage or database is used, or APIs, or Gateways, etc.  <br>
-The only notation needed is the name of the operations (a verb) performed and the entity (noun). See the "Activity" section of this document.
+The only notation needed is the name of the operations (a verb) performed and the entity (noun). See the "Activity" section of this document.<br>
 <br>
 <br>
 <br>
@@ -266,7 +274,7 @@ The only notation needed is the name of the operations (a verb) performed and th
 Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
 Business Processes only document happy paths and the most important permutations of the mainstream process. <br>
 ### BPMN
-On the contrary, BPMN, UML Activity Diagrams are considered a more detailed and technical diagrams, and they need to have the full path of executions, including the error handling.
+On the contrary, BPMN and UML Activity Diagrams are considered more detailed and technical diagrams, and they need to have the full path of executions, including the error handling.
 <br>
 <br>
 <br>
@@ -301,6 +309,8 @@ Custom Notations could include, for example: <br>
 * Font types
 * etc
 <br>
+
+### Example
 They can be used for categorisation of existing or new elements. The example below is just for illustration purposes:<br>
 <br>
 
@@ -316,7 +326,7 @@ They can be used for categorisation of existing or new elements. The example bel
 |8|		Actor (Swimline)|Light Yellow Colour|Indicates the Actor is an existing Role in the sytem|
 |9|		Actor (Swimline)|Light Purple Colour|Indicates the Actor is an new Role in the sytem|
 
-### Example
+<br>
 <img src="./images/CustomisedNotation1.jpg" align="center" width=70% height=70%>
 <br>
 <br>
