@@ -177,9 +177,9 @@ So, the business process is connected with several business interactions, each w
 <br>
 
 ## Temporal Events
-Sometimes, Business analysts forget to model processes triggered by time events. These events are valid business interactions; therefore, they must be captured as part of the business requirements. So, here is the correct notation for how to start a Temporal Event. <br>
+Sometimes, Business analysts need to remember that processes triggered by time events need to be analysed and documented. These events are valid business interactions; therefore, they must be captured as part of the business requirements. So, here is the correct notation for how to start a Temporal Event. <br>
 <br>
-Temporal Events can be for example, <br>
+Temporal Events can be, for example, <br>
 * Every day at 1 AM, run the reconciliation process. <br>
 * Every 10 minutes, check for new emails in the Inbox. <br>
 <br>
@@ -192,7 +192,15 @@ Temporal Events have a distinct start-process notation as follows:<br>
 
 
 ## Conditions
-TBC.
+Sometimes, documenting the Conditions in business flows can be easy, or sometimes, it can contribute to convoluted flows. So, to have a standard principle for this is recommended the following:<br>
+<br>
+Temporal Events can be, for example, <br>
+* Conditions are rhombus shape and they should only lead to True or False, Yes or No Answers. <br>
+* Before the Condition, it should have an Activity that evaluates the Business Rules and the Conditions. <br>
+<br>
+For Example: <br>
+<img src="./images/Conditions1.jpg" align="center" width=85% height=85%>
+
 <br>
 <br>
 <br>
