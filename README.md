@@ -241,7 +241,6 @@ The Process diagram can include more than one application. For example:<br>
 
 * "Financial Controller" Actor <br>
   They use the Finance Portal dashboard to see the project estimations.  <br>
-<br>
 
 #### Example
 <img src="./images/Applications1.jpg" align="center" width=45% height=45%>
