@@ -126,7 +126,10 @@ For example, in the following diagram, there are Online and Offline Activities; 
 <br>
 <br>
 
-## Top-to-bottom, Left-to-right 
+## Orientation 
+<br>
+Use **Top-to-bottom, Left-to-right**.<be>
+<br>
 Most occidental alphabets conform to the convention to be read and written from left to right and read from top to bottom.<be>
 Therefore, it is advised that the processes also follow as much as possible a flow that allows readers to read the activities in sequence from top to bottom and left to write. Regardless if the process is oriented vertically or horizontally, the sequence of activities can be arranged in that conventional order.<br>
 
