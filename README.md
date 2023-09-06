@@ -195,10 +195,11 @@ Temporal Events have a distinct start-process notation as follows:<br>
 Sometimes, documenting the Conditions in business flows can be easy, or sometimes, it can contribute to convoluted flows. So, to have a standard principle for this is recommended the following:<br>
 <br>
 Temporal Events can be, for example, <br>
-* Conditions are rhombus shape and they should only lead to True or False, Yes or No Answers. <br>
+* Conditions are rhombus shape, and they should only lead to True or False, Yes or No Answers. <br>
 * Before the Condition, it should have an Activity that evaluates the Business Rules and the Conditions. <br>
 <br>
 For Example: <br>
+<br>
 <img src="./images/Conditions1.jpg" align="center" width=85% height=85%>
 
 <br>
