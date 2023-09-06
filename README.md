@@ -200,7 +200,7 @@ Temporal Events can be, for example, <br>
 <br>
 For Example: <br>
 <br>
-<img src="./images/Conditions1.jpg" align="center" width=85% height=85%>
+<img src="./images/Conditions1.jpg" align="center" width=95% height=95%>
 
 <br>
 <br>
