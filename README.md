@@ -86,6 +86,12 @@ Personas are used when creating User Stories.<br>
 The Persona definition is not directly correlated to a Role in the system. However, many times, Personas are used equivalently to User Roles. <br>
 <br>
 <br>
+**User Roles** <br>
+A User Role is a predefined category that can be assigned to users based on the responsibilities they need to perform in a system. <br>
+Some of the User Roles surface early on in the analysis and design stages. These are not definitive, and it is recommended to have a formal rationalisation process to make the Roles definitive and confirm them before the detailed design stage.<br>
+Although these early identified User Roles can change, they can be used as provisional and be part of the analysis and design process.<br>
+<br>
+<br>
 <br>
 
 ## User Stories
