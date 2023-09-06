@@ -289,7 +289,6 @@ Custom Notations could include, for example: <br>
 * Icons
 * Font types
 * etc
-<br>
 
 ### Example
 They can be used for categorisation of existing or new elements. The example below is just for illustration purposes:<br>
