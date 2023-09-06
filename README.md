@@ -112,9 +112,6 @@ The Use Cases can be inferred by identifying one or more Activities in the Actor
 | #	| Element  | Description | 
 | --- | --- | --- |
 |1|		Actor Business Process Swimlines|The concept of the Actor does not formally exist in the BMPN. <br> However, it is important to know that it is beneficial to adopt some convention to correlate the BPMN diagrams with the consequent flesh down of User Requirements. <br> The User Requirements can be Epics, Agile User Stories, or UML Use Cases. <br> Therefore, it is advised that adopting the correct naming conventions for the Swimlanes can lead to making the User Requirements much easier because they will have a matching "Actor" in the BPMN business interactions.|
-
-| #	| Element  | Description | 
-| --- | --- | --- |
 |2|		Actor - Use Cases - UML Methodology| As per UML definition, the Actor is used to specify a role played by a user or any other system interacting with the subject by exchanging signals and data. <br> Actors are used when creating Use Cases|
 
 | #	| Element  | Description | 
