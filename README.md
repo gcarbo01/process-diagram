@@ -244,7 +244,7 @@ The Process diagram can include more than one application. For example:<br>
   They use the Finance Portal dashboard to see the project estimations.  <br>
 <br>
 
-### Example
+#### Example
 <img src="./images/Applications1.jpg" align="center" width=45% height=45%>
 
 ### One Application - multiple components
@@ -256,7 +256,7 @@ For example, an Application called "Zinga App" will have different components: <
 * "Zinga App - Web". (the web frontend).
 * "Zinga App - Backend". (and the server side).
 
-### Example
+#### Example
 <br>
 <img src="./images/Application-components1.jpg" align="center" width=90% height=90%>
 <br>
@@ -273,15 +273,15 @@ The only notation needed is the name of the operations (a verb) performed and th
 Generally, business processes only detail Error Handling if the error handling itself is a process that requires documentation because it consists of several steps that need to be coordinated across multiple Actors. Error Handling is usually considered a technical implementation and is not part of the high-level process design. <br>
 Business Processes only document happy paths and the most important permutations of the mainstream process. <br>
 ### BPMN
-On the contrary, BPMN and UML Activity Diagrams are considered more detailed and technical diagrams, and they need to have the full path of executions, including the error handling.
+On the contrary, BPMN and UML Activity Diagrams are considered more detailed and technical diagrams, and they need to have the full path of executions, including error handling.
 <br>
 <br>
 <br>
 
 
 ## User Interface Screens
-In the same way that there is a correlation between Activities and Use Cases or User Stories, there is also a correlation between Activities or a group of Activities (Business Interaction) with Application screens. So, When defining the Activities for a workflow, there could be the opportunity to start correlating these with Applications' User interfaces.<br>
-<br>
+In the same way that there is a correlation between Activities and Use Cases or User Stories, there is also a correlation between Activities or a group of Activities (Business Interaction) with Application screens. So, When defining the Activities for a workflow, there could be the opportunity to start correlating these with Applications' User interfaces. <br>
+### Example
 <img src="./images/Screen1.jpg" align="center" width=75% height=75%>
 <br>
 <br>
