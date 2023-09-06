@@ -145,7 +145,7 @@ Therefore, it is advised that the processes also follow as much as possible a fl
 <br>
 <br>
 
-## Business Process size
+## Size
 Business Processes can be fitted at most in an A3 size page, but if the Activities are not readable, it is wise to break it down into separate artefacts. <br>
 <br>
 <br>
